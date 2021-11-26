@@ -4,13 +4,17 @@
 ## I'm a beginner web developer from France<p align="center"> ![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=Neemko.Neemko&left_color=blue&right_color=black)</p>
 
 - :recycle: I retrained as web developer in 2021, thanks to the [O'clock school][O'clock].  
-I followed a fullstack Javascript course in which I have learned HTML, CSS, Javascript, React / Redux (in progress), Node.js with the Express framework and database (SQL/NOSQL).
+I followed a fullstack Javascript course in which I have learned HTML, CSS, Javascript, React / Redux (in progress), Node.js with the Express framework and database (SQL/NOSQL).  
+
 - :shinto_shrine: End-of-study Project (team of 5 people) :
     - [Project Repository][LDOrepo]
     - [Web Site - LDO][LDOwebsite]
-    - [YouTube presentation as Product Owner (start at 58:11)][LDOyoutube]
-- :books: I’m currently learning React.js
-- :thought_balloon: I would like to learn new back-end languages (C#, Java, Php) in the years ahead
+    - [YouTube presentation as Product Owner (start at 58:11)][LDOyoutube]   
+
+- :books: I’m currently learning React.js.  
+
+- :thought_balloon: I would like to learn new back-end languages (C#, Java, Php) in the years ahead.  
+
 - :zap: Fun fact : I'm a Murloc fan...'mrglwglwlg!' :joy:
 
 <br />
