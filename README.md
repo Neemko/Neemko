@@ -1,8 +1,7 @@
 ![header](header.png)
 ## Hi There ! :wave: I'm Thomas - aka [Neemko][linkedin]
 
-## I'm a beginner web developer from France
-<p align="center">![](https://visitor-badge.glitch.me/badge?page_id=Neemko.Neemko)</p>
+## I'm a beginner web developer from France<p align="center"> ![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=Neemko.Neemko&left_color=blue&right_color=black)</p>
 
 - :recycle: I retrained as web developer in 2021, thanks to the [O'clock school][O'clock].  
 I followed a fullstack Javascript course in which I have learned HTML, CSS, Javascript, React / Redux (in progress), Node.js with the Express framework and database (SQL/NOSQL).
